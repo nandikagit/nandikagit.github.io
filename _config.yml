@@ -17,7 +17,6 @@ title: Nandika Nair
 email: nairnandika@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, welcome to my career page! I am a Data Engineer looking for data positions.
-twitter_username: username
 github_username: nandikagit
 minimal_mistakes_skin: dark
 search: true
@@ -62,28 +61,22 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://nandikagit.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/nandikagit"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/nandikanair"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/nandikagit"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/nandikanair"
 
 defaults:
   # _posts
