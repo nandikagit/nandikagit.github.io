@@ -5,3 +5,10 @@
 layout: home
 author_profile: true
 ---
+
+I am an ESG Data Engineer at Bloomberg. I am interested in: 
+
+* ETL pipelines
+* Workflow automation
+* Data Quality/Management
+* AI/LLMs
