@@ -16,7 +16,7 @@
 title: Nandika Nair
 email: nairnandika@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hello, welcome to my career page! I am a Data Engineer looking for data positions.
+  Hello, welcome to my career page! I’m a data engineer working on ESG data pipelines and internal tooling to improve data quality and accessibility. I use Python, SQL, Trino, Superset, and more to solve cross-functional data challenges.
 github_username: nandikagit
 minimal_mistakes_skin: neon
 search: true
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Nandika Nair"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I’m a data engineer working on ESG data pipelines and internal tooling to improve data quality and accessibility. I use Python, SQL, Trino, Superset, and more to solve cross-functional data challenges."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
